@@ -1,0 +1,5 @@
+# Ignore archived logs
+archives/
+
+# Ignore OS files
+.DS_Store
